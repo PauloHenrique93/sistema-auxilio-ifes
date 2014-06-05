@@ -12,8 +12,12 @@ class DefaultControl {
         $this->dao = new DefaultDao();
     }
     
-    public function insert($args) {
-        $this->dao->insert($args);
+    public function insert($args, $table) {
+        $this->dao->insert($args, $table);
+    }
+
+    public function select($sql) {
+    	return $this->dao->select($sql);
     }
 
 }
