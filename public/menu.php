@@ -19,8 +19,8 @@
       <li class="sty-green-3"><a href="faq">F.A.Q.</a></li>
       <li class="sty-green-3"><a href="contato">Contato</a></li>
       <li class="sty-green-3"><a href="#">Faça o seu cadastro</a></li>
-      <li class="sty-green-3"><a href="ui.php">User Interface</a></li>
-      <li class="sty-green-3"><a href="forms.php">Formulários</a></li>
+      <li class="sty-green-3"><a href="ui">User Interface</a></li>
+      <li class="sty-green-3"><a href="forms">Formulários</a></li>
     </ul>
 
   </div> <!-- /.navbar-collapse -->

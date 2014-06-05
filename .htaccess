@@ -19,6 +19,12 @@
         # Página de faq
 	RewriteRule ^faq/?$ public/faq.php?page=faq[NC,L]
 
+        # Página de ui
+	RewriteRule ^ui/?$ public/ui.php?page=faq[NC,L]
+        
+        # Página de forms
+	RewriteRule ^forms/?$ public/forms.php?page=faq[NC,L]
+
 
 
  
